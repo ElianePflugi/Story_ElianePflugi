@@ -25,3 +25,5 @@ Important before you start! After each topic a-e you should store the README.md 
 }
 random text added
 Story_ElianePflugi has been cloned. Eveerything is back on my computer. I can see the changes I made online.
+
+Cristina-made changes in Elaine repo
