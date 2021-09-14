@@ -17,4 +17,9 @@ Important before you start! After each topic a-e you should store the README.md 
 {\listtext	c.	}Objective of your research project: The objective of this project is to investigate whether the gender dependent differences in testosterone influence the self-reported extraversion\
 {\listtext	d.	}Description of the variables you have measured: gender (male, female, divers), level of testosterone (saliva sample), extraversion (self report using NEO-FFI)\
 {\listtext	e.	}Your Hypothesis: The higher level of testosterone in male test subjects correlates positively with a higher level of extraversion\
+{\listtext	f.	}analysis: in the script \'84preprocessing\'93 the raw data will be cleaned from missing data (NA). In the script \'84analysis\'93 correlation will be calculated for  level testosterone and self-reported extraversion using gender as a covariate. The script labeling will be used for labeling.\
+\pard\tx566\tx1133\pardeftab708\ri-386\sl480\slmult1\partightenfactor0
+\cf0 \
+\
+\
 }
