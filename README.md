@@ -20,6 +20,6 @@ Important before you start! After each topic a-e you should store the README.md 
 {\listtext	f.	}analysis: in the script \'84preprocessing\'93 the raw data will be cleaned from missing data (NA). In the script \'84analysis\'93 correlation will be calculated for  level testosterone and self-reported extraversion using gender as a covariate. The script labeling will be used for labeling.\
 \pard\tx566\tx1133\pardeftab708\ri-386\sl480\slmult1\partightenfactor0
 \cf0 \
-The exercise took me approximately 2 hours\
+The exercise took me approximately 2 hours because I didn\'92t know what I was doing\
 \
 }
