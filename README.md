@@ -12,8 +12,9 @@
 Important before you start! After each topic a-e you should store the README.md and add a new \'abcommit\'bb to GitHub desktop (use as Description e.g. added Title, added Keywords\'85)\
 \pard\pardeftab708\li1440\fi-360\ri-386\sl480\slmult1\partightenfactor0
 \ls1\ilvl1
-\f1\b0 \cf0 a.	Title:  \
-b.	Keywords\
-c.	Objective of your research project\
-d.	Description of the variables you have measured\
-e.	Your Hypothesis}
+\f1\b0 \cf0 {\listtext	a.	}Title:  Gender differences in the level of testosterone influence self-reported extraversion\
+{\listtext	b.	}Keywords\
+{\listtext	c.	}Objective of your research project\
+{\listtext	d.	}Description of the variables you have measured\
+{\listtext	e.	}Your Hypothesis\
+}
